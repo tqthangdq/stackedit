@@ -8,8 +8,11 @@ The framework employs encoder and decoder networks to compress and reconstruct C
 - Tailored VQ modules compensate for residual quantization errors.
 - A Deep Learning-based CSI refinement module at the Access Point, which improve reconstruction by jointly using current and prior feedback.
 - Simulation results show that the proposed framework outperforms both standard Wi-Fi feedback and exsting DL-based feedback methods.
+
+## Introduction
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzMjMyMjA3LC0xNDIxNDY5NjI4LC00MD
+eyJoaXN0b3J5IjpbNDk1MTY0MDI5LC0xNDIxNDY5NjI4LC00MD
 Y4MjMwMjgsNDk3ODE4ODEwLC0yMTEyMTQ2MzkxLDkyMzczMDI5
 MF19
 -->
