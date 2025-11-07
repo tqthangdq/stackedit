@@ -13,10 +13,11 @@ The framework employs encoder and decoder networks to compress and reconstruct C
 - Begin by emphasizing the wireless networks are rapidly evolving to support higher data rate transmission.
 - It is assumed that the new wireless technology achieves better throughput by full utilizing Channel State Information CSI.
 - The AP sends a Null Data Packet Announcement (NDPA) to the STA to notify it of the MIMO configuration and the necessary parameters for channel estimation. Then, the AP transmits a Null Data Packet (NDP) containing pilot signals for the STA to estimate the channel. After the STA obtains the channel state information, it compresses and reports it back to the AP in the form of a Compressed Beamforming Report (CBR).
+- In this p
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4NjQ4MDUxLC0xNzg3ODUxODM2LDY0ND
-I5NjIyNiw0MDUwMTA4MjQsLTE0Njk5MDc0NDYsNDk1MTY0MDI5
-LC0xNDIxNDY5NjI4LC00MDY4MjMwMjgsNDk3ODE4ODEwLC0yMT
-EyMTQ2MzkxLDkyMzczMDI5MF19
+eyJoaXN0b3J5IjpbMTQzOTk2NDk3OSw1OTg2NDgwNTEsLTE3OD
+c4NTE4MzYsNjQ0Mjk2MjI2LDQwNTAxMDgyNCwtMTQ2OTkwNzQ0
+Niw0OTUxNjQwMjksLTE0MjE0Njk2MjgsLTQwNjgyMzAyOCw0OT
+c4MTg4MTAsLTIxMTIxNDYzOTEsOTIzNzMwMjkwXX0=
 -->
