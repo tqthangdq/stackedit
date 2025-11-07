@@ -10,9 +10,9 @@ The framework employs encoder and decoder networks to compress and reconstruct C
 - Simulation results show that the proposed framework outperforms both standard Wi-Fi feedback and exsting DL-based feedback methods.
 
 ## Introduction
-- 
+- Begin by emphasizing the wireless networ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njk5MDc0NDYsNDk1MTY0MDI5LC0xND
-IxNDY5NjI4LC00MDY4MjMwMjgsNDk3ODE4ODEwLC0yMTEyMTQ2
-MzkxLDkyMzczMDI5MF19
+eyJoaXN0b3J5IjpbLTg0MjM3MDUxNSwtMTQ2OTkwNzQ0Niw0OT
+UxNjQwMjksLTE0MjE0Njk2MjgsLTQwNjgyMzAyOCw0OTc4MTg4
+MTAsLTIxMTIxNDYzOTEsOTIzNzMwMjkwXX0=
 -->
