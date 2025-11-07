@@ -11,9 +11,10 @@ The framework employs encoder and decoder networks to compress and reconstruct C
 
 ## Introduction
 - Begin by emphasizing the wireless networks are rapidly evolving to support higher data rate transmission.
+- It is assumed that the new wireless technology achieves better throughput by full utilizing Channel State Information CSI.
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1MDEwODI0LC0xNDY5OTA3NDQ2LDQ5NT
-E2NDAyOSwtMTQyMTQ2OTYyOCwtNDA2ODIzMDI4LDQ5NzgxODgx
-MCwtMjExMjE0NjM5MSw5MjM3MzAyOTBdfQ==
+eyJoaXN0b3J5IjpbNjQ0Mjk2MjI2LDQwNTAxMDgyNCwtMTQ2OT
+kwNzQ0Niw0OTUxNjQwMjksLTE0MjE0Njk2MjgsLTQwNjgyMzAy
+OCw0OTc4MTg4MTAsLTIxMTIxNDYzOTEsOTIzNzMwMjkwXX0=
 -->
