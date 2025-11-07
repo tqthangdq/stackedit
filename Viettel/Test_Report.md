@@ -3,8 +3,8 @@
 ## Abstract
 - The framework employs encoder and decoder networks to compress and recontruct CSI angle parameters.
 - Using a trainable vector quantization (VQ) module that enables finite-bit representation through end-to-end training.
-- Introduce an angle-difference feedback strategy that exploits the temporal correlation of the angle parameters by feeding back the 
+- Introduce an angle-difference feedback strategy that exploits the temporal correlation of the angle parameters by feeding back the difference between the current and previous values.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDczNDczMSw0OTc4MTg4MTAsLTIxMT
+eyJoaXN0b3J5IjpbLTQwNjgyMzAyOCw0OTc4MTg4MTAsLTIxMT
 IxNDYzOTEsOTIzNzMwMjkwXX0=
 -->
