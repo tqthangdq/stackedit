@@ -12,10 +12,10 @@ The framework employs encoder and decoder networks to compress and reconstruct C
 ## Introduction
 - Begin by emphasizing the wireless networks are rapidly evolving to support higher data rate transmission.
 - It is assumed that the new wireless technology achieves better throughput by full utilizing Channel State Information CSI.
-- The AP sends a Null Data Packet Announcement (NDPA)
+- The AP sends a Null Data Packet Announcement (NDPA) to the STA to notify it of the MIMO configuration and the ne
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODc4NTE4MzYsNjQ0Mjk2MjI2LDQwNT
-AxMDgyNCwtMTQ2OTkwNzQ0Niw0OTUxNjQwMjksLTE0MjE0Njk2
-MjgsLTQwNjgyMzAyOCw0OTc4MTg4MTAsLTIxMTIxNDYzOTEsOT
-IzNzMwMjkwXX0=
+eyJoaXN0b3J5IjpbMTc1MDIwMjY1NCwtMTc4Nzg1MTgzNiw2ND
+QyOTYyMjYsNDA1MDEwODI0LC0xNDY5OTA3NDQ2LDQ5NTE2NDAy
+OSwtMTQyMTQ2OTYyOCwtNDA2ODIzMDI4LDQ5NzgxODgxMCwtMj
+ExMjE0NjM5MSw5MjM3MzAyOTBdfQ==
 -->
