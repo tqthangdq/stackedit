@@ -3,10 +3,8 @@
 ----------
 
 ### 1. Context
-
--   **Technology:**  We are operating in  **Massive MIMO**  (Multiple-Input Multiple-Output) systems, a core technology for 5G and beyond.
-    
--   **Goal:** To achieve the high-performance gains of Massive MIMO, the transmitter (Base Station, **BS**) **must** have accurate downlink Channel State Information (CSI).
+-   Technology: We are operating in Massive MIMO  (Multiple-Input Multiple-Output) systems, a core technology for 5G and beyond.
+-   Goal: To achieve the high-performance gains of Massive MIMO, the transmitter (Base Station, **BS**) **must** have accurate downlink Channel State Information (CSI).
     
 
 ----------
@@ -46,6 +44,6 @@
 -   **Outcome:** This method can **greatly reduce the feedback overhead** while maintaining high CSI accuracy.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTc1NTU1MDIsOTE2NDA2NTgyLDMyMj
-MzMTU5NF19
+eyJoaXN0b3J5IjpbMTcyNzA0Njk4LDkxNjQwNjU4MiwzMjIzMz
+E1OTRdfQ==
 -->
