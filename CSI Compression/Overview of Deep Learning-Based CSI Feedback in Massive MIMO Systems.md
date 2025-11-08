@@ -4,25 +4,16 @@
 
 ### 1. Context
 -   Technology: We are operating in Massive MIMO systems, a core technology for 5G and beyond.
--   Goal: To achieve the high-performance gains of Massive MIMO, the transmitter must have accurate downlink Channel State Information (CSI).
+-   Goal: To achieve the high-performance gains of Massive MIMO, the transmitter BS must have accurate downlink Channel State Information (CSI).
 
 ### 2. Problem
 -   Process: In FDD systems, the downlink and uplink channels are different. 
 -   Therefore, the receiver UT must estimate the downlink CSI and then feed it back to the BS via the uplink channel.
-    
-
-----------
 
 ### 3. Bottleneck
-
--   **Data Explosion:**  As the number of BS antennas becomes "massive" (e.g., hundreds), the CSI matrix becomes  _enormous_.
-    
--   **Cost:** Feeding back this enormous CSI matrix consumes **substantial uplink bandwidth resources**.
-    
--   **Result:**  This is known as the "feedback overhead" bottleneck, a major challenge preventing the efficient deployment of FDD Massive MIMO.
-    
-
-----------
+-   Data Explosion: As the number of BS antennas becomes "massive" (e.g., hundreds), the CSI matrix becomes  _enormous_.
+-   Cost: Feeding back this enormous CSI matrix consumes substantial uplink bandwidth resources.
+-   Result: This is known as the "feedback overhead" bottleneck, a major challenge preventing the efficient deployment of FDD Massive MIMO.
 
 ### 4. Proposed Solution (The paper's focus)
 
@@ -39,6 +30,6 @@
 -   **Outcome:** This method can **greatly reduce the feedback overhead** while maintaining high CSI accuracy.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDExODQ5NTcsOTE2NDA2NTgyLDMyMj
-MzMTU5NF19
+eyJoaXN0b3J5IjpbNDgzMzI3ODM0LDkxNjQwNjU4MiwzMjIzMz
+E1OTRdfQ==
 -->
