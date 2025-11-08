@@ -16,20 +16,14 @@
 -   Result: This is known as the "feedback overhead" bottleneck, a major challenge preventing the efficient deployment of FDD Massive MIMO.
 
 ### 4. Proposed Solution (The paper's focus)
-
--   **Core Idea:**  Instead of sending the full CSI,  **compress**  it.
-    
--   **Tool:** Use **Deep Learning (DL)**, specifically an **Autoencoder** architecture.
-    
--   **Mechanism (Ref. Figure 1):**
-    
-    -   **At the User (Encoder):**  A DL-based Encoder network compresses the original CSI "image" into a low-dimensional "Feedback codeword".
-        
-    -   **At the BS (Decoder):**  A DL-based Decoder network receives this small codeword and reconstructs the CSI "image".
-        
--   **Outcome:** This method can **greatly reduce the feedback overhead** while maintaining high CSI accuracy.
+-   Core Idea: Instead of sending the full CSI, compress it.
+-   Tool: Use Deep Learning (DL), specifically an Autoencoder architecture.
+-   Mechanism (Ref. Figure 1):
+    -   At the User (Encoder):  A DL-based Encoder network compresses the original CSI "image" into a low-dimensional "Feedback codeword".
+    -   At the BS (Decoder):  A DL-based Decoder network receives this small codeword and reconstructs the CSI "image".
+-   Outcome: This method can greatly reduce the feedback overhead while maintaining high CSI accuracy.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzMzI3ODM0LDkxNjQwNjU4MiwzMjIzMz
-E1OTRdfQ==
+eyJoaXN0b3J5IjpbLTIwNDgwOTQ3NzAsOTE2NDA2NTgyLDMyMj
+MzMTU5NF19
 -->
