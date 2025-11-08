@@ -3,17 +3,12 @@
 ----------
 
 ### 1. Context
--   Technology: We are operating in Massive MIMO (Multiple-Input Multiple-Output) systems, a core technology for 5G and beyond.
--   Goal: To achieve the high-performance gains of Massive MIMO, the transmitter (Base Station, **BS**) **must** have accurate downlink Channel State Information (CSI).
-    
-
-----------
+-   Technology: We are operating in Massive MIMO systems, a core technology for 5G and beyond.
+-   Goal: To achieve the high-performance gains of Massive MIMO, the transmitter must have accurate downlink Channel State Information (CSI).
 
 ### 2. Problem
-
--   **Process:**  In  **FDD**  (Frequency Division Duplex) systems, the downlink and uplink channels are different.
-    
--   Therefore, the receiver (User Terminal, **UT**) must estimate the downlink CSI and then **feed it back** to the BS via the uplink channel.
+-   Process: In FDD systems, the downlink and uplink channels are different. 
+-   Therefore, the receiver UT must estimate the downlink CSI and then feed it back to the BS via the uplink channel.
     
 
 ----------
@@ -44,6 +39,6 @@
 -   **Outcome:** This method can **greatly reduce the feedback overhead** while maintaining high CSI accuracy.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA4NDY5NjQsOTE2NDA2NTgyLDMyMj
+eyJoaXN0b3J5IjpbLTE1NDExODQ5NTcsOTE2NDA2NTgyLDMyMj
 MzMTU5NF19
 -->
