@@ -1,4 +1,6 @@
-**Paper:**  _Overview of Deep Learning-based CSI Feedback in Massive MIMO Systems_  **Authors:**  Guo et al. (2022)  **Paper Type:**  Overview / Survey
+**Paper:**  _Overview of Deep Learning-based CSI Feedback in Massive MIMO Systems_  
+**Authors:**  Guo et al. (2022)  
+**Paper Type:**  Overview / Survey
 
 ----------
 
@@ -24,6 +26,6 @@
 -   Outcome: This method can greatly reduce the feedback overhead while maintaining high CSI accuracy.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDgwOTQ3NzAsOTE2NDA2NTgyLDMyMj
+eyJoaXN0b3J5IjpbLTIwNTU4MTA5MzAsOTE2NDA2NTgyLDMyMj
 MzMTU5NF19
 -->
